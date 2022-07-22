@@ -1,6 +1,5 @@
 # Spotify-Data-Analysis
 
-https://blog.devgenius.io/spotify-data-analysis-with-python-a727542beaa7https://blog.devgenius.io/spotify-data-analysis-with-python-a727542beaa7
 
 https://seaborn.pydata.org/generated/seaborn.kdeplot.html#:~:text=Plot%20univariate%20or%20bivariate%20distributions,in%20one%20or%20more%20dimensions.
 
